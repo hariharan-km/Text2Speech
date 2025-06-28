@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import Icons from '../public/speak-icons'
 
 function App() {
   const [text, setText] = useState('');
